@@ -1,2 +1,2 @@
 # Amigo_secreto
-Sorteo de nombres, para determinar el amigo un amigo secreto
+Sorteo de nombres para determinar un amigo secreto.
